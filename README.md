@@ -4,11 +4,11 @@
 <picture>
   <source
     height=170 align="" srcset="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=sperendio&show_icons=true" />
 </picture>
