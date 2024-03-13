@@ -12,7 +12,8 @@
   />
   <img 
     height=170 align ="" src="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&theme=radical"
-    
+    media="(prefers-color-scheme: light)"
+
     />
 </picture>
 <a href="https://github.com/sperendiopedro/convoychat">
