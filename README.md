@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am a Backend developer growing evryday and always learning new things.
+- Im a brazilian Java developer and i'm always trying to learn something and grow evryday. 
 - 📫 How to reach me: pedro.sperendio@outlook.com
 
 <picture>
