@@ -10,7 +10,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=sperendio&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true" />
 </picture>
 <a href="https://github.com/sperendiopedro/convoychat">
   <img height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sperendiopedro&layout=compact&langs_count=8&card_width=200&theme=radical" />
