@@ -10,7 +10,8 @@
     srcset="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&theme=radical"
+  <img 
+    height=170 align ="" src="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&theme=radical"
     
     />
 </picture>
