@@ -1,7 +1,8 @@
 ### Hi there 👋
+- I am a Backend developer growing evryday and always learning new things.
 - 📫 How to reach me: pedro.sperendio@outlook.com
-<picture>
 
+<picture>
   <source
     height=170 align="" srcset="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark)"
@@ -21,4 +22,6 @@
 </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Sts" heigh= "30" width="50" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
+  <img align="center" alt="Sts" heigh= "30" width="50" src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png">
 </div>
