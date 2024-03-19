@@ -9,7 +9,7 @@
 
 </picture>
 <a href="https://github.com/sperendiopedro/convoychat">
-  <img height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sperendiopedro&layout=compact&langs_count=8&card_width=180&theme=radical" />
+  <img height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sperendiopedro&layout=compact&langs_count=8&card_width=180&theme=dark" />
 
 
 </a>
