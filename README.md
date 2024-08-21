@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Brazilian Java and PL-SQL developer. Always trying to learn something and grow evryday. 
+- Brazilian Java and Javascript developer. Always seeking new adventures;  
 - 📫 How to reach me: pedro.sperendio@outlook.com
 
 <picture>
