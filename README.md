@@ -4,11 +4,11 @@
 
 <picture>
 />
-  <img height=170 align="" src="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&layout=compact&langs_count=8&card_width=200&theme=dark" />
+  <img height=170 align="" src="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
 </picture>
 
 <picture>
-  <img height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sperendiopedro&layout=compact&langs_count=8&card_width=180&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sperendiopedro&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=200"  alt="ovi" height="195" />
 </picture>
 
 </a>
