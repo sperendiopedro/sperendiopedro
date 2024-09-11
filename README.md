@@ -7,10 +7,9 @@
   <img height=170 align="" src="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&layout=compact&langs_count=8&card_width=200&theme=dark" />
 </picture>
 
-</picture>
-<a href="https://github.com/sperendiopedro/convoychat">
+<picture>
   <img height=170 align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sperendiopedro&layout=compact&langs_count=8&card_width=180&theme=dark" />
-
+</picture>
 
 </a>
 <div style="display: inline_block"><br>
