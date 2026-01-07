@@ -2,15 +2,6 @@
 - Brazilian Java and Javascript developer. Always seeking new adventures;  
 - 📫 How to reach me: pedro.sperendio@outlook.com
 
-<picture>
-  <img height=170 align="" src="https://github-readme-stats.vercel.app/api?username=sperendiopedro&show_icons=true&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
-</picture>
-
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sperendiopedro&show_icons=true&locale=en&layout=compact&theme=tokyonight&card_width=300&margin-left=100px"   height="170" />
-</picture>
-
 </a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
